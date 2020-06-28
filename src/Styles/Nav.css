@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    padding-bottom: 10%;
+
+}
+.Tilt{
+    background: linear-gradient(to left, #08AEEA, #69F9B8);
+}
+.Tilt-inner img{
+    max-height: 15vh;
+    padding-top: 1vh;
+}
+.Tilt-inner{
+    height: 17vh;
+    width: 17vh;
+}
+.logo{
+    position: absolute;
+    left: 2%;
+    top: 2%;
+}

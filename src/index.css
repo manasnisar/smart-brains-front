@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to left, #08AEEA, #69F9B8);
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+
+}
+
+button{
+  cursor: pointer;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
